@@ -25,7 +25,7 @@
 ###
 
 > 🎓 Systems Analysis and Development Student  
-> <img src="https://emojigraph.org/media/apple/flag-brazil_1f1e7-1f1f7.png" width="20" alt="Brazil flag"> Brazil
+> <img src="https://www.bandeirasnacionais.com/data/flags/emoji/apple/160x160/br.png" width="20" alt="Brazil flag"> Brazil
 
 ###
 
