@@ -24,7 +24,8 @@
 
 ###
 
-<p align="left">I'm ... from :brazil:<br><br>- 📚 I'm currently learning java<br>- ⚡ In my free time I ...</p>
+> 🎓 Systems Analysis and Development Student  
+> <img src="https://flagcdn.com/w20/br.png" width="20" alt="Brazil flag"> Brazil
 
 ###
 
