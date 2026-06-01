@@ -15,6 +15,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/kaiucsr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=kaiucsr&logo=linkedin&label=LinkedIn&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="linkedin logo"  />
