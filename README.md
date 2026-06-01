@@ -24,7 +24,7 @@
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devkaio135@gmail.com&su=Contato%20pelo%20GitHub" target="_blank">
   <img 
-    src="https://img.shields.io/static/v1?message=devkaio135@gmail.com&logo=gmail&label=Gmail&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" 
+    src="https://img.shields.io/static/v1?message=kaiucsr135@gmail.com&logo=gmail&label=Gmail&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" 
     height="33" 
     alt="gmail logo"  
   />
