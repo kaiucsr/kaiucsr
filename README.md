@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=kaiucsr&logo=linkedin&label=LinkedIn&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/kaioodev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=kaiucsr&logo=instagram&label=Instagram&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=kaioodev&logo=instagram&label=Instagram&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devkaio135@gmail.com&su=Contato%20pelo%20GitHub" target="_blank">
   <img 
