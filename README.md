@@ -1,17 +1,17 @@
-<h1 align="left">Hi 👋, I'm Kaio César</h1>
+<h1 align="left">Olá 👋, eu sou Kaio César</h1>
 
 ###
 
-🎓 **Systems Analysis and Development Student**<br>
-<img src="https://www.bandeirasnacionais.com/data/flags/emoji/apple/160x160/br.png" width="20" alt="Brazil flag"> Brazil
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**<br>
+<img src="https://www.bandeirasnacionais.com/data/flags/emoji/apple/160x160/br.png" width="20" alt="Bandeira do Brasil"> Brasil
 
 ###
 
-<p align="left">I'm a technology student focused on creating practical digital solutions, such as websites, automations, systems, and business tools.<br><br>I have been working on and developing real projects for clients, turning ideas into functional systems that help businesses improve their digital presence, organization, and daily processes.<br><br>Currently, I'm improving my skills in software development, backend development, databases, and web applications.</p>
+<p align="left">Sou estudante de tecnologia com foco em criar soluções digitais práticas, como sites, automações, sistemas e ferramentas para negócios.<br><br>Tenho trabalhado e desenvolvido projetos reais para clientes, transformando ideias em sistemas funcionais que ajudam negócios a melhorar sua presença digital, organização e processos do dia a dia.<br><br>Atualmente, estou aprimorando minhas habilidades em desenvolvimento de software, desenvolvimento backend, bancos de dados e aplicações web.</p>
 
 ###
 
-<h2 align="left">🌐 Where to find me</h2>
+<h2 align="left">🌐 Onde me encontrar</h2>
 
 ###
 
@@ -22,26 +22,26 @@
   <a href="https://www.instagram.com/kaioodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=kaioodev&logo=instagram&label=Instagram&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaiucsr135@gmail.com&su=Contato%20pelo%20GitHub" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=kaiucsr135@gmail.com&logo=gmail&label=Gmail&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" 
-    height="33" 
-    alt="gmail logo"  
-  />
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaiucsr135@gmail.com&su=Contato%20pelo%20GitHub" target="_blank">
+    <img 
+      src="https://img.shields.io/static/v1?message=kaiucsr135@gmail.com&logo=gmail&label=Gmail&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" 
+      height="33" 
+      alt="gmail logo"  
+    />
+  </a>
 </div>
 
 ###
 
-<h2 align="left">🧠 What I do</h2>
+<h2 align="left">🧠 O que eu faço</h2>
 
 ###
 
-<p align="left">* 💻 Websites and web applications<br>* 🛠️ Business tools and practical digital solutions<br>* ⚙️ Process automation and workflow improvement<br>* 🧩 Systems focused on organization and usability<br>* 📊 Simple dashboards and data organization<br>* 🚀 Real-world projects for clients and small businesses<br>* 📚 Continuous learning in software development</p>
+<p align="left">* 💻 Sites e aplicações web<br>* 🛠️ Ferramentas para negócios e soluções digitais práticas<br>* ⚙️ Automação de processos e melhoria de fluxos de trabalho<br>* 🧩 Sistemas com foco em organização e usabilidade<br>* 📊 Dashboards simples e organização de dados<br>* 🚀 Projetos reais para clientes e pequenos negócios<br>* 📚 Aprendizado contínuo em desenvolvimento de software</p>
 
 ###
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tecnologias</h2>
 
 ###
 
@@ -79,7 +79,7 @@
 
 ###
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Banco de Dados</h3>
 
 ###
 
@@ -93,7 +93,7 @@
 
 ###
 
-<h3 align="left">DevOps & Tools</h3>
+<h3 align="left">DevOps e Ferramentas</h3>
 
 ###
 
