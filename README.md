@@ -15,8 +15,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <a href="https://www.linkedin.com/in/kaiucsr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=kaiucsr&logo=linkedin&label=LinkedIn&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="linkedin logo"  />
@@ -24,9 +22,13 @@
   <a href="https://www.instagram.com/kaioodev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=kaiucsr&logo=instagram&label=Instagram&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
-  <a href="devkaio135@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=devkaio135@gmail.com&logo=gmail&label=Gmail&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" height="33" alt="gmail logo"  />
-  </a>
+<a href="mailto:devkaio135@gmail.com?subject=Contato pelo GitHub">
+  <img 
+    src="https://img.shields.io/static/v1?message=devkaio135@gmail.com&logo=gmail&label=Gmail&color=black&logoColor=white&labelColor=205d91&style=for-the-badge" 
+    height="33" 
+    alt="gmail logo"  
+  />
+</a>
 </div>
 
 ###
