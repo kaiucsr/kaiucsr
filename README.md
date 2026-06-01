@@ -2,7 +2,7 @@
 
 ###
 
-🎓 **Systems Analysis and Development Student**
+🎓 **Systems Analysis and Development Student**<br>
 <img src="https://www.bandeirasnacionais.com/data/flags/emoji/apple/160x160/br.png" width="20" alt="Brazil flag"> Brazil
 
 ###
